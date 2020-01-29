@@ -48,8 +48,7 @@ def monopoly_with_fourth_tie
       {
         "mortgage_value"=>"$200"
       },
-      :
-      b_and_o_railroad=>
+      :b_and_o_railroad=>
       { },
       :shortline=>
       {}
