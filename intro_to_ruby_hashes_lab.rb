@@ -25,7 +25,7 @@ monopoly = {:railroads=> {:pieces =>4, :names => {:reading_railroad=> {}, :penns
       :four_pieces_owned=>200}}}
 end
 
-def monopoly_with_fourth_tie
+def monopoly_with_fourth_tier
   
   monopoly =  {
   :railroads=>
