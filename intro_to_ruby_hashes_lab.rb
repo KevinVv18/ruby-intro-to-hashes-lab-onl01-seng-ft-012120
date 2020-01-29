@@ -9,8 +9,7 @@ hash
 end
 
 def monopoly
- if monopoly = {}
-return monopoly
+ monopoly = {:railroads => {}}
 end
 end
 
